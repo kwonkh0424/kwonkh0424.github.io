@@ -9,11 +9,11 @@
 
 ---
 [Hurricane Project Model](/Hurricane_Prediction_Model)
-<img src="images/hurricane_track.jpg?raw=true"/>
+<img src="images/hurricane_track.JPG?raw=true"/>
 
 ---
 [Geographical Analysis of Cities of China](/KNIME Projects.md)
-<img src="images/knime_plot.jpg?raw=true"/>
+<img src="images/knime_plot.JPG?raw=true"/>
 
 ---
 
