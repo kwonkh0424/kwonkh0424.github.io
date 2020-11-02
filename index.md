@@ -8,7 +8,7 @@
 <img src="images/la_county_risk_map.JPG?raw=true"/>
 
 ---
-[Hurricane Project Model](/pdf/sample_presentation.pdf)
+[Hurricane Project Model](/Hurricane_Prediction_Model)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
