@@ -1,6 +1,6 @@
 ## Geographic Analysis of Chinese Cities
 
-<img src="images/knime_logo.jpg?raw=true"/>
+<img src="images/knime_logo.png?raw=true"/>
 
 **Project description:** Analyze following geographical characteristics of chinese cities:
 - Employment Change due to Green Energy Transiditon
