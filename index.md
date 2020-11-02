@@ -12,8 +12,8 @@
 <img src="images/hurricane_track.jpg?raw=true"/>
 
 ---
-[Geographical Analysis of Cities of China](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Geographical Analysis of Cities of China](/KNIME Projects.md)
+<img src="images/knime_plot.jpg?raw=true"/>
 
 ---
 
