@@ -27,7 +27,7 @@ The final output of the projects were:
 
 The daily updated table was sync to color-coded interactive map [RMDS RISK SCORE MAP](https://grmds.org/risk/) enabling audience to easily determine risk level of regions that they are interested in.
 
-<img src="images/la_county_risk_map.jpg?raw=true"/>
+<img src="images/la_county_risk_map.JPG?raw=true"/>
 
 For more details see [COVID 19 TREND ANALYSIS GitHub Repo](https://github.com/kwonkh0424/Covid_19_Challenge/tree/master/risk_score_trend).
 
