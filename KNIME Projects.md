@@ -26,7 +26,7 @@ Output:
 
 2. Color-coded Chinese Map based on employment change
 
-<img src="images/Employment Map.png?raw=true"/>
+<img src="images/Employment Map.png?raw=true"/> 
 
 Green: Regions with a significant increase in employment
 Gray: Regions with no significant change in employment
