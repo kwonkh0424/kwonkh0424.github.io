@@ -47,7 +47,7 @@ The city size distribution of USA (2010)
 <img src="images/city_size_distribution.jpg?raw=true"/>
 
 Economic and deomgraphic growth in modern Chinese cities (1998-2015)
-<img src="images/eonomic_growth.jpg?raw=true"/>
+<img src="images/eonomic_growth1.jpg?raw=true"/>
 
 ### 3. Comparative Analysis of Chinese Cities
 
