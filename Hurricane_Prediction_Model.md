@@ -1,8 +1,7 @@
 ## Hurricane Forecast Modeling
 
-<img src="images/hurricane_charley.jpg?raw=true"/>
-<img src="images/hurricane_track.jpg?raw=true"/>
-
+<img src="/images/hurricane_charley.JPG?raw=false"/>
+<img src="/images/hurricane_track.JPG?raw=true"/>
 Ramsay (2017, DOI: 10.1093/acrefore/9780199389407.013.79)
 
 **Project description:** Analyze historical hurricane data to build predictive models for the following purposes:
