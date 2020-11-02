@@ -4,8 +4,8 @@
 
 ### Projects At RMDS
 
-[Covid-19 Trend Analysis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Covid-19 Trend Analysis](/Covid_19_Trend_Page)
+<img src="images/la_county_risk_map.jpg?raw=true"/>
 
 ---
 [Hurricane Project Model](/pdf/sample_presentation.pdf)
