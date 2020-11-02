@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Projects At RMDS
 
 [Covid-19 Trend Analysis](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Hurricane Project Model](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Geographical Analysis of Cities of China](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
