@@ -1,7 +1,6 @@
 ## Geographic Analysis of Chinese Cities
 
-<img src="images/hurricane_charley.jpg?raw=true"/>
-<img src="images/hurricane_track.jpg?raw=true"/>
+<img src="images/knime_logo.jpg?raw=true"/>
 
 **Project description:** Analyze following geographical characteristics of chinese cities:
 - Employment Change due to Green Energy Transiditon
@@ -10,7 +9,7 @@
 
 This project was in collaboration with Center of Geographical Analysis (Harvard) to provide them new solutions.
 
-### 1. Employment Change due to Green Energy Transiditon
+### 1. Employment Change due to Green Energy Transition
 
 Chinese government have declared that they will increase their reliance on green energy (wind, solar, geothermal, hydro, etc.). However, this rapid shift in energy source will cause a dramatic change in empoyment market throughout China. Utilizing KNIME platform, total employment change is calculated for each chinese province.
 
