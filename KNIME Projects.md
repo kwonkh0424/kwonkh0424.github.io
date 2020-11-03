@@ -44,10 +44,10 @@ Data was collected from: [All China Data Center](https://www.china-data-online.c
 
 Outputs:
 The city size distribution of USA (2010)
-<img src="images/city_size_distribution.jpg?raw=true"/>
+<img src="/images/city_size_distribution.JPG?raw=true"/>
 
 Economic and deomgraphic growth in modern Chinese cities (1998-2015)
-<img src="images/eonomic_growth1.jpg?raw=true"/>
+<img src="/images/economic_growth.JPG?raw=true"/>
 
 ### 3. Comparative Analysis of Chinese Cities
 
