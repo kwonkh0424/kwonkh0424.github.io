@@ -13,7 +13,7 @@ A number of new cases and Risk-Score of LA county regions showed regular oscilla
 
 <img src="images/la_county_risk_score.png?raw=true"/>
 <img src="images/hollywood_risk_score.png?raw=true"/>
-
+<img src="/images/eonomic_growth.JPG?raw=true"/>
 
 ### 2. Categorization of Regions: Trending Up, Neutral, Trending Down
 
