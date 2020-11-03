@@ -19,10 +19,10 @@ transition in China, China Economic Journal, 2:2, 219-237, DOI: 10.1080/17538960
 
 Data were collected from [All China Data Center](https://www.china-data-online.com/)
 
-Output:
+Output:<br>
 1. Table: List of Provinces and their employment change according to different energy shift scenarios
 
-<img src="images/employment_change_table.jpg?raw=true"/>
+<img src="/images/employment_change_table.jpg?raw=true"/>
 
 2. Color-coded Chinese Map based on employment change
 
@@ -42,11 +42,11 @@ Bettencourt LMA and Lobo J (2019) Quantitative Methods for the Comparative Analy
 
 Data was collected from: [All China Data Center](https://www.china-data-online.com/) and [United States Census Bureau](https://www.census.gov/)
 
-Outputs:
-The city size distribution of USA (2010)
+Outputs:<br>
+1. The city size distribution of USA (2010)
 <img src="/images/city_size_distribution.JPG?raw=true"/>
 
-Economic and deomgraphic growth in modern Chinese cities (1998-2015)
+2. Economic and deomgraphic growth in modern Chinese cities (1998-2015)
 <img src="/images/economic_growth.JPG?raw=true"/>
 
 ### 3. Comparative Analysis of Chinese Cities
@@ -58,11 +58,11 @@ Zünd D, Bettencourt LMA (2019) Growth and development in prefecture-level citie
 
 Data was collected from: [All China Data Center](https://www.china-data-online.com/)
 
-Outputs:
-Estimated vs. Resident Population of Prefecture-Level Cities
+Outputs:<br>
+1. Estimated vs. Resident Population of Prefecture-Level Cities
 <img src="/images/estimated_vs_registered.JPG?raw=true"/>
 
-Estimation Error (Residual) of Prefecture-Level City Population
+2. Estimation Error (Residual) of Prefecture-Level City Population
 <img src="/images/population_residual.JPG?raw=true"/>
-Red=Underestimation
+Red=Underestimation<br>
 Blue=Overestimation
