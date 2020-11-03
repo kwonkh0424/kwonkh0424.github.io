@@ -1,6 +1,6 @@
 ## Geographic Analysis of Chinese Cities
 
-<img src="images/knime_logo.png?raw=true"/>
+<img src="/images/knime_logo.JPG?raw=true"/>
 
 **Project description:** Analyze the following geographical characteristics of Chinese cities:
 - Employment Change due to Green Energy Transition
@@ -60,9 +60,9 @@ Data was collected from: [All China Data Center](https://www.china-data-online.c
 
 Outputs:
 Estimated vs. Resident Population of Prefecture-Level Cities
-<img src="images/estimated_vs_registered.jpg?raw=true"/>
+<img src="/images/estimated_vs_registered.JPG?raw=true"/>
 
 Estimation Error (Residual) of Prefecture-Level City Population
-<img src="images/population_residual.jpg?raw=true"/>
+<img src="/images/population_residual.JPG?raw=true"/>
 Red=Underestimation
 Blue=Overestimation
