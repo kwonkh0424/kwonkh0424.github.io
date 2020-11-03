@@ -1,4 +1,6 @@
 ## Development Engineer - Advanced Material Science
+<img src="images/NuVasive_Logo.PNG?raw=true"/>
+
 
 **Work Experience Description:**
 •Managed new product development projects in various stages from conception to commercialization
@@ -9,6 +11,7 @@
 and R&D to develop cost-effective and timely solutions into the market
 •Certified in eXtreme Lateral Interbody Fusion (XLIF): a minimally invasive lateral spine procedure
 
+<img src="images/nuvasive_porous_peek.JPG?raw=true"/>
 
 #### Porous PEEK Technology
 I have worked on developing Cohere XLIF Spine Implants, which is the first-of-its-kind spinal implant.

@@ -2,7 +2,7 @@
 
 ---
 
-### Projects At RMDS
+### Data Analytics / Science Experiences (RMDS)
 
 [Covid-19 Trend Analysis](/Covid_19_Trend_Page)
 <img src="images/la_county_risk_map.JPG?raw=true"/>
@@ -17,10 +17,10 @@
 
 ---
 
-### Projects At NuVasive (Mechanical)
+### Project Management Experiences (NuVasive)
 
 [Porous PEEK Spine Implant](/Porous_PEEK)
-<img src="images/la_county_risk_map.JPG?raw=true"/>
+<img src="images/NuVasive_Logo.PNG?raw=true"/>
 
 
 ---
