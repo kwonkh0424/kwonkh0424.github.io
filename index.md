@@ -19,7 +19,7 @@
 
 ### Projects At NuVasive (Mechanical)
 
-[Porous PEEK Spine Implant](/Covid_19_Trend_Page)
+[Porous PEEK Spine Implant](/Porous_PEEK)
 <img src="images/la_county_risk_map.JPG?raw=true"/>
 
 
