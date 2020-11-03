@@ -1,5 +1,5 @@
 ## Development Engineer - Advanced Material Science
-<img src="images/NuVasive_Logo.PNG?raw=true"/>
+<img src="/images/NuVasive_Logo.png?raw=true"/>
 
 
 **Work Experience Description:**<br>
