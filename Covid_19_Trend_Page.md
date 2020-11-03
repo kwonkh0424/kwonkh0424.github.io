@@ -8,17 +8,17 @@ In order to determine the LA country's risk-score trend, the following datasets 
 2. Daily new cases and deaths of each region within LA County (http://publichealth.lacounty.gov)
 3. Lists of LA country regions
 
-### 1. Methodology:
+### 2. Methodology:
 A number of new cases and Risk-Score of LA county regions showed regular oscillation characteristics with a period of 7-10 days. With large oscillations, a simple analysis of trends could lead to inaccurate conclusions about the Covid-19 situation in each LA region. In order to reduce a large amount of noise/variance in the data, a moving average of 18 days was calculated.
 
 <img src="images/la_county_risk_score.png?raw=true"/>
 <img src="images/hollywood_risk_score.png?raw=true"/>
 
-### 2. Categorization of Regions: Trending Up, Neutral, Trending Down
+### 3. Categorization of Regions: Trending Up, Neutral, Trending Down
 
 By taking a slope analysis of moving averages, the regions of LA county were divided into three categories: trending up, neutral, trending down. This data is updated daily to the LA county government to let them know which regions of LA county will experience a serious increase in Covid-19 cases in the coming weeks.
 
-### 3. Output: Map-Based Solution
+### 4. Output: Map-Based Solution
 
 The final outputs of the projects were:
 1. time-series plots of Covid-19 total cases and risk-score trend in each region
