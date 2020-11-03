@@ -17,19 +17,11 @@
 
 ---
 
-### Category Name 2
+### Projects At NuVasive (Mechanical)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
+[Porous PEEK Spine Implant](/Covid_19_Trend_Page)
+<img src="images/la_county_risk_map.JPG?raw=true"/>
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
