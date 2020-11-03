@@ -11,6 +11,7 @@ and R&D to develop cost-effective and timely solutions into the market
 
 
 #### Porous PEEK Technology
-I have worked on developing Cohere XLIF Spine Implants, which is the first-of-its-kind spinal implant
+I have worked on developing Cohere XLIF Spine Implants, which is the first-of-its-kind spinal implant.
+
 For more details see [NuVasive - AMS](https://www.nuvasive.com/surgical-solutions/advanced-materials-science/porous-peek/).
 
