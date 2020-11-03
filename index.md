@@ -27,7 +27,7 @@
 
 ### [Medical Device Development - NuVasive](/Porous_PEEK)
 #### Developing various medical devices from design to commercialization - FDA 510(k)
-<img src="/images/NuVasive_Logo.PNG?raw=true"/>
+<img src="/images/NuVasive_Logo.png?raw=true"/>
 
 
 ---
