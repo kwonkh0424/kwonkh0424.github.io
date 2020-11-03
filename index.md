@@ -4,7 +4,7 @@
 
 ## Data Analytics / Science Experiences - RMDS
 
-<font size="+2"><b>[Covid-19 Trend Analysis](/Covid_19_Trend_Page)</b></font><br>
+<font size="+10"><b>[Covid-19 Trend Analysis](/Covid_19_Trend_Page)</b></font><br>
 <b>Using statistical analytics to evaluate Covid-19 Risk Score trend in LA County regions</b><br>
 Client/Partner: LA County Government<br>  
 <img src="images/la_county_risk_map.JPG?raw=true"/>
